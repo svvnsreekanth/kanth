@@ -1,0 +1,43 @@
+Hi sir
+Good mrng
+
+
+Thank u for giving me his opporunity to introduce myself
+
+I am Lalithya pursuing Btech in the stream of EEE in RVR&JC.My native place is kandukur.I completed my intermediate in sri chaitanya ,vijayawada and schooling in Javahar Navodaya ongole.Coming to my family, Both my parents are govt teachers and I have an elder sister.she is working as a software developer in ADP,Hyderabad.My hobbies are so and so.(like lisening songs,drawing,cooking,craftswork).My strenghts are ability to learn things quickly and I am a very posiive person.
+
+
+
+Applications Of SCADA In Common Industries :
+
+
+
+The uses of SCADA technology are vast. Why? Because many industries require the many monitoring and control capabilities that SCADA offers. In most uses, SCADA is used to manage a physical process (manufacturing and water processing are common). In other uses of the word "SCADA", a telecom or IT system of communications is being managed instead.
+
+Here are a few of the most common uses for SCADA systems.
+
+Manufacturing.
+In manufacturing, SCADA is used to make sure that productivity targets are met and all systems run smoothly. The SCADA system on a production line tracks how many units have been produced and how many are in various other stages. Analog values like temp at various production stages are also measured. Imagine how important it is to know the temp of molten metal that must be formed into usable products.
+
+Food Production.
+Very similar to manufacturing, food production is a major SCADA application. If temp is important for making gear, it is vital for the mass production of foods. If temperature varies more than a few degrees, entire batches could be bad. This generates a lot of wasteful expense, which makes deployment of a SCADA system absolutely vital. The movement of liquid and solid ingredients through the process are also tracked by SCADA.
+
+Electric and Gas Utilities.
+Utility companies, mainly gas utilities, suffer the combined headaches of manufacturing and telecom companies. They have to move a physical product through their systems, and they are spread out across big areas. This makes SCADA devices a good fit in utility environments. They need to control the movement of power and gas through the distribution chain. They must also keep the supporting telecom infrastructure online.
+
+Wastewater Treatment.
+The conversion of wastewater back into drinking water can really be thought of as another type of manufacturing process. It delivers the world's most vital item. Flow rate sensors are very common in wastewater centers, as are contaminant sensors.
+
+Telecom and Information Technology (IT).
+Many people don't use the term "SCADA" in telecom environments. Still, many people do use this term to describe remote monitoring and control systems in telcos. Telecom is simply a instant production environment, with bits of data instead of parts or food products. Monitoring temp of servers and other delicate gear is common when SCADA is used in this type of application. Monitoring the dedicated alarm contact closures of many types of gear is also popular. Also common is monitoring against physical intrusions into remote sites using magnetic door sensors and passive infrared (PIR) motion sensors.
+
+
+qwertyuiopasdfghjklzxcvbnm
+qweryuiopasdfghjklzxcbnm
+qweryuiopasdfghjklzxcvbnm
+
+qweryuiopasdfghjklzxcvbnm
+
+v,windows key,t key
+
+
